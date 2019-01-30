@@ -7,7 +7,7 @@
 
 ## [简介](https://github.com/mcuyun/RK1808/wiki)
 
-瑞芯微最新A35低功耗处理器，集成NPU算力3.0TPOS
+瑞芯微最新发布A35双核低功耗SOC，集成NPU算力3.0TPOS
 
 ### [组成](mcuyun/)
 
