@@ -11,21 +11,23 @@ RK1808还有丰富的外设接口，便于应用扩展。视频支持MIPI/CIF/BT
 
 操作系统支持Linux，AI应用开发SDK支持C/C++及Python
 
-[![sites](docs/RK1808.png)](docs/)
+[![sites](docs/RK1808.png)](http://rock-chips.com/a/cn/product/RK18xilie/2019/0529/988.html)
 
 * 主要特点：3.0TPOS NPU
 * 功能特点：USB3.0、PCIE等
 * 主要短板：双A35核心
 
-#### [收录资料](https://github.com/sochub/RK1808)
+### [收录资料](https://github.com/sochub/RK1808)
 
 * [文档](docs/)
 * [资源](src/)
-* [工程](project/)
- 
-#### [官方资料](https://github.com/sochub/RK1808)
 
-* [瑞芯微平台](https://github.com/sochub/rockchips)
-* [linux系统](https://github.com/rockchip-linux/kernel.git)
+ ### 官方资源
+
+ [linux系统](https://github.com/rockchip-linux/kernel.git)
+
+### [选型建议](https://github.com/sochub)
+
+[RK1808](https://github.com/sochub/RK1808) 集成NPU单元，是开源处理器中少有的，具有极高的性价比，同时各种外设端口丰富，相较前辈[RK3399PRO](https://github.com/sochub/RK3399PRO) 更具有应用想象空间。
 
 ###  [SoC资源平台](http://www.qitas.cn)
