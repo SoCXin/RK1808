@@ -1,8 +1,7 @@
 ﻿# [RK1808](https://github.com/sochub/RK1808) 
 [![sites](SoC/qitas.png)](http://www.qitas.cn)
-#### 厂商：[rock-chips](https://github.com/sochub/rockchips)
+#### 厂商：[rockchips](https://github.com/sochub/rockchips)
 #### 架构：[cortex A35](https://github.com/sochub/CA35)
-
 ### [RK1808简介](https://github.com/sochub/RK1808/wiki)
 
 瑞芯微RK1808 AIoT芯片，采用22nm FD-SOI工艺制造，CPU上采用双核Cortex-A35架构，最高主频1.6GHz，内置2MB系统级SRAM，可实现always-on设备无DDR运行，NPU部分的峰值算力高达3.0TOPs，支持INT8/INT16/FP16混合运算，最大程度兼顾性能、功耗、运算精度，并支持TensorFlow/MXNet/PyTorch/Caffe等一系列框架的网络模型转换，兼容性强。
